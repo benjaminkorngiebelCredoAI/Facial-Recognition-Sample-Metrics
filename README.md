@@ -1,1 +1,2 @@
 # Facial-Recognition-Sample-Metrics
+Jupyter Notebook that provides plotting metrics for Rekognition based on a sample from FairFace dataset- 20 images each of males and females for all racial subgroups (Indian, Middle Eastern, East Asian, Southeast Asian, White and Black). The metrics are saved to csv files and can then be used to generate graphs highlighting the performance of the facial recognition model. The FairFace dataset is not included in this repository.
